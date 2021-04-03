@@ -23,6 +23,9 @@ Once the installation finishes, you can run all the tests by doing
 pytest --mpl
 ```
 
+* The figures below summarise the main learning outcomes of this course: Test-Driven Development methodology for any Software / Data Science project 
+
+
 ![Function Lifecycle](fig1.png)
 ![Test Driven Development - Function Lifecycle](fig2.png)
 
