@@ -23,3 +23,6 @@ Once the installation finishes, you can run all the tests by doing
 pytest --mpl
 ```
 
+![Function Lifecycle](fig1.png)
+![Test Driven Development - Function Lifecycle](fig2.png)
+
