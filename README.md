@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.com/jdquerales/UnivariateLinearModel-Pytest.svg?branch=main)](https://travis-ci.com/jdquerales/UnivariateLinearModel-Pytest)
-[![codecov](https://codecov.io/gh/gutfeeling/univariate-linear-regression/branch/master/graph/badge.svg)](https://codecov.io/gh/gutfeeling/univariate-linear-regression)
-
+[![codecov](https://codecov.io/gh/jdquerales/UnivariateLinearModel-Pytest/branch/main/graph/badge.svg?token=v5NwqALfSb)](https://codecov.io/gh/jdquerales/UnivariateLinearModel-Pytest)
 
 This repository holds the code for the DataCamp course [Unit Testing for Data Science in Python by Dibya Chakravorty](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python). 
 
